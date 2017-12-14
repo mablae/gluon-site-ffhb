@@ -1,3 +1,4 @@
 [submodule "gluon"]
 	path = gluon
 	url = https://github.com/mablae/gluon.git
+	branch = tl-wr1043n-v5-2017-1
